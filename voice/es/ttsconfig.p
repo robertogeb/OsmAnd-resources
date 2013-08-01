@@ -91,10 +91,10 @@ string('follow.ogg', 'Sigue la vía durante').
 % ARRIVE
 string('and_arrive_destination.ogg', 'y llegarás a tu destino').
 string('reached_destination.ogg','has llegado a tu destino').
-string('and_arrive_intermediate.ogg', 'y llegarás a tu punto intermedio').
-string('reached_intermediate.ogg', 'has llegado a tu punto intermedio').
-string('and_arrive_waypoint.ogg', 'y llegarás a tu punto intermedio').
-string('reached_waypoint.ogg', 'has llegado a tu punto intermedio').
+string('and_arrive_intermediate.ogg', 'y llegarás al punto intermedio').
+string('reached_intermediate.ogg', 'has llegado al punto intermedio').
+string('and_arrive_waypoint.ogg', 'y llegarás al punto de ruta').
+string('reached_waypoint.ogg', 'has llegado al punto de ruta').
 
 % OTHER PROMPTS
 string('attention.ogg', 'atención, ').
