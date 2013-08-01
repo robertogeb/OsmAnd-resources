@@ -50,8 +50,8 @@ string('left_sl_inf.ogg', 'girar levemente a la izquierda').
 string('right_inf.ogg', 'girar a la derecha').
 string('right_sh_inf.ogg', 'girar fuerte a la derecha').
 string('right_sl_inf.ogg', 'girar levemente a la derecha').
-string('left_keep_inf.ogg', 'mantener a la izquierda').
-string('right_keep_inf.ogg', 'mantener a la derecha').
+string('left_keep_inf.ogg', 'mantenerte a la izquierda').
+string('right_keep_inf.ogg', 'mantenerte a la derecha').
 
 % U-TURNS
 string('prepare_make_uturn.ogg', 'Prepárate para dar la vuelta tras').
